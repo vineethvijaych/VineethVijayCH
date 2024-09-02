@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working at **LiquidLab Infosystems** as a **MERN Stack Developer**
 - 🌱 I’m currently learning **Advanced MERN Stack Development**
-- 💬 Ask me about **MERN Stack, Python, Django, MongoDB, HTML, CSS, JS, FileZilla Server Handling**
+- 💬 Ask me about **MERN Stack, Python, Django, MongoDB, HTML, CSS, JS**
 - 📫 How to reach me: **vineethvijaysynnefo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -58,9 +58,7 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://filezilla-project.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/filezilla.svg" alt="FileZilla" width="40" height="40" />
-  </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineethvijaych&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" /></p>
