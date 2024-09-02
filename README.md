@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineed Vijay</h1>
-<h3 align="center">A Passionate Python Developer</h3>
+<h3 align="center">A Passionate Python & MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vineethvijaych&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,9 +11,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at **Liquidlab Infosystems**
-- 🌱 I’m currently learning **Python, Django**
-- 💬 Ask me about **Python, Django, HTML, CSS, JS**
+- 🔭 I’m currently working at **LiquidLab Infosystems** as a **MERN Stack Developer**
+- 🌱 I’m currently learning **Advanced MERN Stack Development**
+- 💬 Ask me about **MERN Stack, Python, Django, MongoDB, HTML, CSS, JS, FileZilla Server Handling**
 - 📫 How to reach me: **vineethvijaysynnefo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,11 +43,23 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://www.scala-lang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40" />
+  <a href="https://filezilla-project.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/filezilla.svg" alt="FileZilla" width="40" height="40" />
   </a>
 </p>
 
