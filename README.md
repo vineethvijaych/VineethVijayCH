@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[www.linkedin.com/in/vineed-vijay-ch-](https://www.linkedin.com/in/vineed-vijay-ch-/)" target="_blank">
+  <a href="www.linkedin.com/in/vineed-vijay-ch-" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
