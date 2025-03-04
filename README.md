@@ -19,7 +19,7 @@
 
 ### 💬 Ask me about **MERN Stack, Python, Django, MongoDB, HTML, CSS, JS**
 
-### 📫 How to reach me: **vineethvijaysynnefo@gmail.com**
+### 📫 How to reach me: **vineethcpz6881@gmail.com**
 
 ---
 
